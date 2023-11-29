@@ -1,75 +1,6 @@
-    {"product": {
+{
+    "product": {
         "_id": "5f11b5ad1d7dc4bd551d1e57",
-        "i18n": {
-            "vi": {
-                "default_category": {
-                    "id": "5ea28eee1223ebf3ad6aece0",
-                    "name": "Sữa tắm",
-                    "slug": "2413-body-wash",
-                    "my_soco_sql_id": 2413,
-                    "rating_types": [
-                        "is_star_effectiveness",
-                        "is_star_packaging",
-                        "is_star_texture",
-                        "is_star_value_for_money"
-                    ]
-                },
-                "is_whats_new": {
-                    "is_active_in_sociolla_vn": false
-                },
-                "is_bundle_pack": {
-                    "is_active_in_sociolla_vn": false
-                },
-                "categories": [
-                    {
-                        "is_promotion": false,
-                        "is_shop_by_departement": false,
-                        "id": "5d3d50276b24d0159951681b",
-                        "my_soco_sql_id": 4,
-                        "my_sociolla_sql_id": 143,
-                        "name": "Chăm sóc cơ thể",
-                        "slug": "143-bath-and-body"
-                    },
-                    {
-                        "is_promotion": false,
-                        "is_shop_by_departement": false,
-                        "id": "5e997122494db23216483121",
-                        "my_soco_sql_id": 2309,
-                        "my_sociolla_sql_id": 2205,
-                        "name": "Làm sạch",
-                        "slug": "2309-body-cleanser"
-                    },
-                    {
-                        "is_promotion": false,
-                        "is_shop_by_departement": false,
-                        "id": "5ea28eee1223ebf3ad6aece0",
-                        "my_soco_sql_id": 2413,
-                        "my_sociolla_sql_id": 2309,
-                        "name": "Sữa tắm",
-                        "slug": "2413-body-wash"
-                    }
-                ],
-                "tags": [
-                    {
-                        "id": "5ebbf37aedad7618410b2864",
-                        "my_soco_sql_id": 17732,
-                        "name": "Chăm sóc cơ thể",
-                        "level_name": "level 1",
-                        "is_campaign": false
-                    }
-                ],
-                "parent_category": {
-                    "id": "5d3d50276b24d0159951681b",
-                    "name": "Chăm sóc cơ thể",
-                    "slug": "143-bath-and-body",
-                    "link_rewrite": "cham-soc-c-th",
-                    "my_soco_sql_id": 4
-                }
-            }
-        },
-        "is_bundle_pack": {
-            "is_active_in_sociolla_vn": false
-        },
         "default_category": {
             "id": "5ea28eee1223ebf3ad6aece0",
             "name": "Body Wash",
@@ -96,25 +27,6 @@
             "total_repurchase_no_count": 0,
             "total_repurchase_yes_count": 11
         },
-        "is_deleted": false,
-        "status": "approved",
-        "is_active_in_review": true,
-        "is_active_in_sociolla": false,
-        "is_active_in_lulla": true,
-        "is_active_in_offline_store": true,
-        "is_active_in_sociolla_vn": false,
-        "is_limited": false,
-        "is_exclusive": false,
-        "is_online": false,
-        "is_dangerous": false,
-        "total_wishlist": 6,
-        "is_most_popular": false,
-        "is_product_ticket": false,
-        "is_soco_event": false,
-        "hide_pack_content": false,
-        "is_priority": false,
-        "is_out_of_stock_sociolla": false,
-        "is_out_of_stock_lilla": false,
         "brand": {
             "id": "5f112efc627abbbd9a8ba807",
             "name": "Zwitsal",
@@ -1347,35 +1259,12 @@
                 "is_verified_purchase": false
             }
         ],
-        "tags": [
-            {
-                "id": "5ebbf37aedad7618410b2864",
-                "my_soco_sql_id": 17732,
-                "name": "Bath & Body",
-                "level_name": "level 1",
-                "is_campaign": false,
-                "_id": "5ebbf37aedad7618410b2864"
-            }
-        ],
-        "pack_detail": [],
         "classification": "sellable_products",
-        "meta_description": "",
-        "meta_title": "",
-        "lulla": {
-            "meta_title": "",
-            "meta_keywords": "",
-            "meta_description": ""
-        },
-        "discounts": [],
         "created_at": "2020-07-17T14:29:01.271Z",
         "updated_at": "2023-11-28T03:28:43.476Z",
         "id": 74338,
         "my_sociolla_sql_id": 27518,
         "slug": "27518-kids-bubble-bath-blue",
-        "odoo_category": {
-            "id": "5ed60ae32b2eac70e9e5132b",
-            "name": "Bath and Body"
-        },
         "parent_category": {
             "id": "5d3d50276b24d0159951681b",
             "name": "Bath & Body",
@@ -1384,68 +1273,10 @@
             "my_soco_sql_id": 4
         },
         "url_sociolla": "https://www.sociolla.com/body-wash/27518-kids-bubble-bath-blue",
-        "is_out_of_stock_sociolla_vn": false,
         "platforms": [],
         "is_disable_in_apps": false,
-        "is_out_of_stock_carasun": false,
-        "sbd_categories": [
-            {
-                "is_promotion": false,
-                "is_shop_by_departement": false,
-                "id": "5d3d50276b24d0159951681b",
-                "my_soco_sql_id": 4,
-                "my_sociolla_sql_id": 143,
-                "name": "Bath & Body",
-                "slug": "143-bath-and-body"
-            },
-            {
-                "is_promotion": false,
-                "is_shop_by_departement": false,
-                "id": "5e997122494db23216483121",
-                "my_soco_sql_id": 2309,
-                "my_sociolla_sql_id": 2205,
-                "name": "Body Cleanser",
-                "slug": "2309-body-cleanser"
-            },
-            {
-                "is_promotion": false,
-                "is_shop_by_departement": false,
-                "id": "5ea28eee1223ebf3ad6aece0",
-                "my_soco_sql_id": 2413,
-                "my_sociolla_sql_id": 2309,
-                "name": "Body Wash",
-                "slug": "2413-body-wash"
-            }
-        ],
-        "is_out_of_stock_cosrx": false,
         "is_for_baby_kids": true,
         "is_for_moms": false,
-        "is_active_in_offline_store_lilla": true,
-        "is_active_in_event_microsite": false,
-        "awards": [],
-        "beauty_xchange_description": "",
-        "bpom_reg_no": "",
-        "carasun": {
-            "meta_title": "",
-            "meta_keywords": "",
-            "meta_description": "",
-            "description": "",
-            "short_description": "",
-            "how_to_use": "",
-            "ingredients": ""
-        },
-        "cosrx": {
-            "meta_title": "",
-            "meta_keywords": "",
-            "meta_description": "",
-            "description": "",
-            "short_description": "",
-            "how_to_use": "",
-            "ingredients": "",
-            "skincare_step": "",
-            "product_comparison": ""
-        },
-        "event_description": "",
         "is_active_in_b2b": false,
         "is_active_in_carasun": false,
         "is_active_in_cosrx": false,
@@ -2033,27 +1864,6 @@
             "is_reviewed": false,
             "is_verified_purchase": false
         },
-        "is_pre_order": false,
-        "is_new": false,
-        "is_in_stock": true,
-        "is_in_stock_original": true,
-        "is_buy_one_get_one_free": false,
-        "is_sale": true,
-        "is_flashsale": false,
-        "show_flashsale_pdp": false,
-        "min_price": 21850,
-        "max_price": 27900,
-        "min_price_after_discount": 17480,
-        "max_price_after_discount": 27900,
-        "price_range": "Rp 21.850 - Rp 27.900",
-        "price_after_discount_range": "Rp 17.480 - Rp 27.900",
-        "discount_range": "-20%",
-        "discount_percentage": "20",
-        "max_discount": [],
-        "beauty_point_earned": 0,
-        "is_reviewed_by_shopper": true,
-        "is_reviewed_by_expert": false,
-        "is_reviewed_combination": false,
         "categories": [
             {
                 "is_promotion": false,
@@ -2084,4 +1894,4 @@
             }
         ]
     },
-  }
+}
